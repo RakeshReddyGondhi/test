@@ -1,0 +1,70 @@
+git add
+git add 
+git add [200~
+git add --renormalize .
+git add FestivalWishes
+git add FestivalWishes.tsx
+git add First_File 
+git add README.md
+git add README.md 
+git add src/components/FestivalWishes.tsx
+git branch
+git branch -M main
+git branch -a
+git clone https://github.com/RakeshReddyGondhi/innovatechdesign.git
+git commit -m "Adding README.md"
+git commit -m "Normalize line endings across the repository"
+git commit -m "Revised_Festival_Details"
+git commit -m "WIP: local changes before revert"
+git commit -m "first commit"
+git commit -m "revised_commit"
+git config --global core.autocrlf true
+git config --global core.eol crlf
+git diff
+git diff --staged
+git diff main..origin/main
+git diff origin/main..main
+git diff origin/main..main --color-words
+git diff origin/main..main -U0
+git diff origin/main..main -u0
+git diff origin/main..main -uo
+git fetch main
+git fetch origin
+git init
+git log
+git log --oneline --graph --decorate origin/main..main
+git log --oneline -3
+git log --oneline -5
+git log --since="10 days ago" --pretty=format:"%h | %an | %ad | %s" --date=short --graph
+git log --since="2025-10-15" --graph --oneline --all
+git log --since="2025-10-20 00:00" --until="2025-10-25 23:59" --pretty=format:"%h | %an | %ad | %s" --date=short
+git log --since="2025-10-25 00:00" --until="2025-10-25 23:59" --pretty=format:"%h | %an | %ad | %s" --date=short
+git log --since="2025-10-25T00:00:00+05:30" --until="2025-10-25T23:59:59+05:30" --oneline
+git log --since="5 days ago" --pretty=format:"%h | %an | %ad | %s" --date=short
+git log --since="today" --oneline
+git log --since="today" --pretty=format:"%C(yellow)%h %Cgreen%ad %Creset%s %Cblue[%an]" --date=short
+git log --since="today" -p
+git log --since=25-10-2025 --oneline
+git log -3
+git log origin
+git log origin/main..main
+git pull
+git pull https://github.com/RakeshReddyGondhi/test.git
+git push
+git push -u origin main
+git push origin main --force
+git remote add origin https://github.com/RakeshReddyGondhi/test.git
+git remove README.md
+git reset --hard 3030aa4
+git reset --hard 8c1aa83b446e6bd252adee80d06e48e79306020c
+git reset --hard d99eda2
+git restore --source=HEAD --staged --worktree src/components/FestivalWishes.tsx
+git restore src/components/FestivalWishes.tsx
+git revert --abort
+git revert d99eda24b61e01680750e4136d68211167e66654
+git rm -f README.md
+git rm -v README.md 
+git rm README.md
+git rm README.md 
+git status
+git status -r
